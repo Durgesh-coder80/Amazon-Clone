@@ -1,1 +1,1 @@
-# Amazon-Clone
+# E-Commerce-Clone
